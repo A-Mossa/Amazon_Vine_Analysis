@@ -29,3 +29,6 @@ The Dataset of choice was (https://s3.amazonaws.com/amazon-reviews-pds/tsv/amazo
 ## Summary
 
 A significant 51% of the reviews in the paid Vine program were 5 stars reviews, on the other hand the percentage of 5-star non-Vine reviews is around 38.6%. This indicates that incentivizing reviews impacts bias.
+
+Regarding additional analysis, the team first would like to apply the same process over a variety of dataset for different products to verify results.
+Also, comparing the analysis results with different datasets for companies offering similar service to Vine to verify that incentivizing reviewers encourages bias.
