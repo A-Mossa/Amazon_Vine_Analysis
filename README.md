@@ -24,7 +24,7 @@ The Dataset of choice was (https://s3.amazonaws.com/amazon-reviews-pds/tsv/amazo
   - percentage of paid vine reviews that were 5-stars was 51.06%
   - percentage of unpaid vine reviews that were 5-stars was 38.7%
 
-![percent of 5-stars Reviews](https://github.com/A-Mossa/Amazon_Vine_Analysis/blob/main/Imgs/5star%25%20of%20total.png)
+![percent of 5-stars Reviews](https://github.com/A-Mossa/Amazon_Vine_Analysis/blob/main/Imgs/5star%20percent.png)
 
 ## Summary
 
