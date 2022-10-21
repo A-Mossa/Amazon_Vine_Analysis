@@ -18,7 +18,7 @@ The Dataset of choice was (https://s3.amazonaws.com/amazon-reviews-pds/tsv/amazo
   - Number of paid review that were 5-stars was 48.
   - Number of unpaid review that were 5-stars was 15663.
 
-![Number of 5-stars Reviews](https://github.com/A-Mossa/Amazon_Vine_Analysis/blob/main/Imgs/number%20of%205-star%20reviews.png)
+![Number of 5-stars Reviews](https://github.com/A-Mossa/Amazon_Vine_Analysis/blob/main/Imgs/5star%20percent.png)
 
 - What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
   - percentage of paid vine reviews that were 5-stars was 51.06%
